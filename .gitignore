@@ -3,6 +3,7 @@
 *.lo
 *.la
 *.m4
+*~
 
 .deps/
 .libs/
