@@ -474,7 +474,7 @@ __isl_give isl_basic_set * isl_basic_set_overapproximate(__isl_take isl_basic_se
 	approxset = utvpi_over_approximation_FM(bset);	
 	//approxset = interface_apron(approxset);	
 	//approxset = bset;
-	printf("\n\t\t Overapproximated farkas polyhedra: %s, %d",isl_basic_set_to_str(approxset), isl_basic_set_is_empty(approxset));
+	printf("\n\t\t Overapproximated polyhedra: %s, %d",isl_basic_set_to_str(approxset), isl_basic_set_is_empty(approxset));
 	return approxset;
 }
 
