@@ -1,8 +1,8 @@
 # ISL-UTVPI 
 
-The implementation is based on our ongoing submission entitled:
+The implementation is based on our submission accepted at IMPACT 2019 polyhedral compilation workshop:
 
-## "Some Simple & Efficient Solutions to U-TVPI Polyhedral Over-approximation problem"
+## "Some Efficient Algorithms for the tightest UTVPI Polyhedral Over-approximation problem"
 
 ### However, To know more about this work please contact: cs15mtech11015@iith.ac.in
 
