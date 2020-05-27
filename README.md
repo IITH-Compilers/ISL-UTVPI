@@ -1,12 +1,18 @@
 # ISL-UTVPI 
 
-The implementation is based on our submission accepted at IMPACT 2019 polyhedral compilation workshop:
+## Title: "Some Efficient Algorithms for the tightest UTVPI Polyhedral Over-approximation problem"
 
-## "Some Efficient Algorithms for the tightest UTVPI Polyhedral Over-approximation problem"
+### Authors: Abhishek A. Patwardhan, Ramakrishna Upadrasta
 
-### However, To know more about this work please contact: cs15mtech11015@iith.ac.in
+#### Accepted at 9th International Workshop on Polyhedral Compilation Techniques (IMPACT 2019 ) 
+####             January 23, 2019 | Valencia, Spain In conjunction with HiPEAC 2019
+
+##### http://impact.gforge.inria.fr/impact2019/
+
+##### contact: cs15mtech11015@iith.ac.in
 
 
+=========== Retaining Integer Set Library's README below ==============
 
 
 If you use isl for your research, you are invited do cite
